@@ -1,3 +1,5 @@
+## deprecated in favor of [hdl/containers](https://github.com/hdl/containers)
+
 # docker-ghdl-yosys-nextpnr
 
 Docker container with the complete opensource FPGA toolchain (ghdl, yosys, nextpnr, etc.)
